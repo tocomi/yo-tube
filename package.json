@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "aws-sdk": "^2.229.1",
     "run-local-lambda": "^1.1.1"
   }
 }
